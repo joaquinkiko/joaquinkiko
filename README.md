@@ -1,14 +1,16 @@
-## Hi there 👋✨
-My name's Joaquin (he/him), a Software Development student and Gameplay Programmer.
+## Hello! :sparkles: :jack_o_lantern: :sparkles:
+My name is Joaquin (he/him), a Software Development student and Gameplay Programmer.
 
-My main tech stack is C++, C#, and GDScript, with project work in both Godot and Unity.
+My main tech stack is C++, C#, and Godot (with a sprinkle of bash and python scripting for workflow automation).
 
-I specialize in multiplayer networking and multiplayer game design.
+I specialize in game development and netcode.
 
-I'm currently focusing my work on [SnapGd](https://github.com/joaquinkiko/snap-gd), a snapshot based multiplayer tool for Godot. Its goal is providing indie developers a strong foundation for implementing multiplayer gameplay in their own projects.
+Some work in Godot Plugin development I'm particularly proud of:
 
-I'm also proud of my work on [QMap](https://github.com/joaquinkiko/QMap-Godot), a Quake-style level design tool for Godot, allowing for quick and flexible level development that scales with both smaller and larger level scopes.
+**[SnapGd](https://github.com/joaquinkiko/snap-gd)** - Providing game designers with a smooth and high-level multiplayer implementation. Designed with scaling, network instability, and anti-cheat in mind.
 
-When not coding I'm an avid gardener and tabletop gamer.
+**[QMap](https://github.com/joaquinkiko/QMap-Godot)** - Extending the Quake/Source .map format to Godot’s node based architecture, for smooth level design and iteration.
 
-Feel free to reach out if you want to collaborate together!
+If I'm not at my computer, I'm likely working in my garden, enjoying some tabletop gaming, or trying to practice my drawing.
+
+Feel free to reach out if you want to collaborate, or even just chat!
